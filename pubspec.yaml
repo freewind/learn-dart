@@ -1,0 +1,4 @@
+name: learn-dart
+dependencies:
+  browser: any
+  unittest: any
